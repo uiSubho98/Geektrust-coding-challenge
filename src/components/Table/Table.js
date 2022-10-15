@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import './Table.css'
 import axios from 'axios';
-import Pagination  from "https://cdn.skypack.dev/rc-pagination@3.1.15";
+import Pagination  from 'rc-pagination';
 // import Select from 'rc-select';
 import ReadOnlyRow from '../ReadOnlyRow.js/ReadOnlyRow';
 import {AiOutlineDoubleLeft,AiOutlineDoubleRight} from 'react-icons/ai';
